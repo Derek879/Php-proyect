@@ -1,0 +1,48 @@
+body{
+    background-color:#fff7f0;
+}
+
+.navbar{
+    background-color:#6b3e26;
+}
+
+.navbar-brand{
+    color:white;
+    font-weight:bold;
+    font-size:28px;
+}
+
+.hero{
+    padding:80px 20px;
+    text-align:center;
+}
+
+.hero h1{
+    font-size:60px;
+    color:#6b3e26;
+    font-weight:bold;
+}
+
+.hero p{
+    font-size:22px;
+    color:#555;
+}
+
+.btn-custom{
+    background-color:#d97706;
+    color:white;
+    border:none;
+    padding:12px 25px;
+    border-radius:10px;
+    font-size:18px;
+}
+
+.btn-custom:hover{
+    background-color:#b45309;
+}
+
+.card{
+    border:none;
+    border-radius:20px;
+    box-shadow:0 4px 10px rgba(0,0,0,0.1);
+}
